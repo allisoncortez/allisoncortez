@@ -1,4 +1,4 @@
-### Hey There, I'm Allison 👋
+### Hi There, I'm Allison 👋
 
 I am a Software Engineer with a strong foundation in object-oriented programming. Former Designer, passionate about programming, equality in tech, and contemporary art experiences.
 
