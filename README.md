@@ -6,13 +6,13 @@ I graduated from Flatiron School's immersive software engineering program in Sep
 
 **Current tech stack:** JavaScript ES6, React/Hooks, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Git, Bootstrap, RESTfulAPI, Pair Programming
 
-- 🔭I'm currently exploring all things frontend related. I'm passionate about design and all things visual and/or interactive. I'd love to learn more about AI and machine learning.
+🔭 I'm currently exploring all things frontend related. I'm passionate about design and all things visual and/or interactive. I'd love to learn more about AI and machine learning.
 
-- 💬 Ask me about literally anything! I've learned so much along the way and am excited to be apart of the dev community and share my experience with others.
+💬 Ask me about literally anything! I've learned so much along the way and am excited to be apart of the dev community and share my experience with others.
 
-- 📫 CONTACT INFO
-[LinkedIn](https://www.linkedin.com/in/allisoncortez/?_l=en_US)
-[Dev.to](https://dev.to/allisoncortez)
+📫 CONTACT INFO
+- [LinkedIn](https://www.linkedin.com/in/allisoncortez/?_l=en_US)
+- [Dev.to](https://dev.to/allisoncortez)
 
 <!--
 **allisoncortez/allisoncortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
