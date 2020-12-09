@@ -10,7 +10,7 @@ I graduated from Flatiron School's immersive software engineering program in Sep
 
 💬 Ask me about literally anything! I've learned so much along the way and am excited to be apart of the dev community and share my experience with others.
 
-📫 CONTACT INFO
+📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/allisoncortez/?_l=en_US)
 - [Dev.to](https://dev.to/allisoncortez)
 
