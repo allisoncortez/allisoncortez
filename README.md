@@ -1,10 +1,10 @@
 ### Hi There, I'm Allison 👋
 
-I am a Software Engineer with a strong foundation in object-oriented programming. Former Designer, passionate about programming, equality in tech, and contemporary art experiences.
+I am a Software Engineer with a strong foundation in object-oriented programming. Former Designer, passionate about programming, equality in tech, improving the patient experience.
 
 I graduated from Flatiron School's immersive software engineering program in September 2020 which focused on **JavaScript ES6, React, Redux and Ruby on Rails**, but for the past 5 years I've worked in various creative roles and team environments as a Graphic Designer.
 
-**Current tech stack:** JavaScript ES6, React/Hooks, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Git, Bootstrap, RESTfulAPI, Pair Programming
+**Current tech stack:** JavaScript ES6, React/Hooks, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Git, Bootstrap
 
 🔭 I'm currently exploring all things frontend related. I'm passionate about design and all things visual and/or interactive. I'd love to learn more about AI and machine learning.
 
